@@ -25,10 +25,7 @@ class _ShowMapState extends State<ShowMap> {
     return MaterialApp(
       routes: {
         "/": (_) => new WebviewScaffold(
-              url: "https://www.google.com",
-              appBar: new AppBar(
-                title: new Text("Widget webview"),
-              ),
+              url: "https://www.google.com/maps/dir/Kottayam,+Kerala/Kochi,+Kerala/",              
             ),
       },
     );
