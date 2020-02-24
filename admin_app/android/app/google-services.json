@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5560621362",
+    "firebase_url": "https://ictak-busstatus.firebaseio.com",
+    "project_id": "ictak-busstatus",
+    "storage_bucket": "ictak-busstatus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5560621362:android:c31ce3094d6a42eda45f2b",
+        "android_client_info": {
+          "package_name": "com.example.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5560621362-31ss5ae77hlb8snbqggitt9m8b91d443.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdcFMDKptJW_3-uCgewxYFcVhW4XTirhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5560621362-31ss5ae77hlb8snbqggitt9m8b91d443.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
